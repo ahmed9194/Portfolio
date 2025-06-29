@@ -57,7 +57,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Load profile image
-profile_img = Image.open("C:/Users/user/Desktop/Portfolio/WhatsApp Image 2025-04-30 at 19.29.53_7a5639cc.jpg")
+profile_img = Image.open("CV.jpg")
 
 # Hero Section
 col1, col2 = st.columns([1, 2])
